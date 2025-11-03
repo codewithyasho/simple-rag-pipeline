@@ -151,7 +151,7 @@ k=3  # Number of similar documents to retrieve
 
 Change the Gemini model in `simple_rag()`:
 ```python
-model="gemini-2.5-pro"  # Change to gemini-1.5-pro or gemini-pro
+model="gemini-2.5-pro"  # Change to gemini-2.5-flash
 ```
 
 ## 📊 Functions Overview
